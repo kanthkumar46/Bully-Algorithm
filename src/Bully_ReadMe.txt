@@ -1,14 +1,6 @@
 /*******************************************************************/
 Note : 
  - Run the program in the machines that are in same Sub-Network
- - Run the program in following machines 
-   *	medusa.cs.rit.edu
-   *	buddy.cs.rit.edu
-   *	kansas.cs.rit.edu
-   *	doors.cs.rit.edu
-   *	yes.cs.rit.edu
-   *	gorgon.cs.rit.ed
-   *	idaho.cs.rit.edu
 /*******************************************************************/
 
 Step 1 : Copy all java files to the required folder 
